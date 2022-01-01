@@ -115,18 +115,18 @@ h1, h2, h3, h4, h5, h6, p{
 /********************** Header styling *********************/
 .header-1{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/portada.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://sn3302files.storage.live.com/y4p6iQ6XzRFharBkMWB5mdrmvJjSnZv2KtGcCM-Di4xDxHuVhgf45PSBAXEoQVQwsom08ul3yKQQvveeezo3GubVSbP2iFS6HH869GVBjz_BCbHu948OiZYtFKfBAjx04O1NcjPPrnX_0CFolwzoL6t9QnhyPz7rxQEWiOz2uEa9FUUALvwK5k2YaD1wzRLD8cW7GjA0IcM_IsDXxHnosqHJL0TzL8JNk8MssmU5bjweOk/portada.jpg?psid=1&width=1050&height=550") center/cover no-repeat;
     color: #fff;
 }
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/header.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://sn3302files.storage.live.com/y4p7LzyoBHyX0w0aSMdlMMf3Asdq5urUb5wSJSq2ttLSTFJhfXQB0k2mBg3pH3AgZrNOTlRwYKbfoxxhoewpZAeLrLrnUBo8b_pb-aK21dgGEJhZUWy_Gik9SFuJq9n4IkGJNmVG7wS6Vg4XVoiJXS7z1IzGe3E1HGlnZ8wclhctwLTdFnv1UMQXImsGBbptQPsqlvDMb31fZ0WytOQO36jgAALTPDIHBJfrtvJQOwh1xA/header.jpg?psid=1&width=924&height=613") center/cover no-repeat;
     color: #fff;
 }
 
 .header-modelo{
     min-height: 70vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/header.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://sn3302files.storage.live.com/y4p7LzyoBHyX0w0aSMdlMMf3Asdq5urUb5wSJSq2ttLSTFJhfXQB0k2mBg3pH3AgZrNOTlRwYKbfoxxhoewpZAeLrLrnUBo8b_pb-aK21dgGEJhZUWy_Gik9SFuJq9n4IkGJNmVG7wS6Vg4XVoiJXS7z1IzGe3E1HGlnZ8wclhctwLTdFnv1UMQXImsGBbptQPsqlvDMb31fZ0WytOQO36jgAALTPDIHBJfrtvJQOwh1xA/header.jpg?psid=1&width=924&height=613") center/cover no-repeat;
     color: #fff;
 }
 .top-nav a{
@@ -231,7 +231,7 @@ blockquote{
     font-weight: 300;
     opacity: 0.9;
     width: 60vw;
-    margin: 45px auto 15px auto;
+    margin: 45px auto 65px auto;
     text-align: center;
 }
 blockquote span{
@@ -309,7 +309,7 @@ blockquote span{
 }
 .sec-one-left{
     height: 100vh;
-    background: url("images/project-main.jpg") center/cover no-repeat;
+    background: url("https://sn3302files.storage.live.com/y4pE40-3aU_aKFi0oXUGGBfaNsXeBx-sR4r1Xg5EebtQvwJnK_33LKyk2i0pzCrrHQnMsPPWN4zzJd8IPIb2EMfTS5RuM3tJ0mWzTgU4TKpaNS5_8ygOlm_hR-22wg8ff7clfR8m7voqQl4zpC6KPecF4lXxL7-pVxHeHW398vXR4fOWfd8NicQS0w9oOtitAglouJ9IqlLn-NREEO_8d1g_7jf9Q4TcSd3iicNau1qa0g/project-main.jpg?psid=1&width=475&height=613") center/cover no-repeat;
     box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
@@ -353,12 +353,12 @@ blockquote span{
     grid-column-gap: 20px;
 }
 .work-img-1{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/porject-1.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("https://sn3302files.storage.live.com/y4phlFpw8Gqcrvlpd2g2BAUXlokxB1KA218HeCRCHvtuuzbfiQznqZlUctXzcQYaPkfDlwAta3TudF3IUHoJ5CTofqjGAUI93UtUaLXUdCQ0Kl9K2hQgZhL8sUdCU7YwjU6eGq0U7OXeJCXhJIICwhSRZRofORnoQIreu6tA2iI_JV0xI0D3fKsJb5dTz74pHq3k0oT0qfTnvEpPG6gQX-IWPlO4LsoWhVIf8JDoNsIKo8/porject-1.jpg?psid=1&width=613&height=613&cropMode=center") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
 }
 .work-img-2{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/porject-2.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("https://sn3302files.storage.live.com/y4phy4U5gMdOOkBVKPQavF8pQkcciNHRR7WaUnE-kRc8bxDK7jsgsBRABlMOneaPN7knTM8Lgl0ew0sKCxcLIr5Kulo_wCG72e__jyQeIFFON_352xgZenHKg5ce712kjw_l2kLRa4r6Kykg2r02DquZT8UY_g3Brlag8oi_z7_oPKDNU4vHVc4ZqDcbjvUKKBb7DsOdKs82TXG2paBIiPNUccO3AqtcO--jq8O849hjhw/porject-2.jpg?psid=1&width=492&height=613") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
 }
@@ -670,7 +670,7 @@ blockquote span{
     /* section five */
     .contact-middle{
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(4, 1fr);
         grid-column-gap: 20px;
     }
 }
